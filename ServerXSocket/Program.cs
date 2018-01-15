@@ -27,7 +27,7 @@ namespace ServerXSocket
             using (var container = XSockets.Plugin.Framework.Composable.GetExport<IXSocketServerContainer>())
             {
                 container.Start();
-                Console.WriteLine("Serwer started!");
+                Console.WriteLine("Server started!");
                 Console.ReadLine();
             }
         }
