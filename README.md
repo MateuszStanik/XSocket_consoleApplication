@@ -1,2 +1,2 @@
 # XSocket_consoleApplication
-Using XSocket in console application
+Usage XSocket lib in console application
